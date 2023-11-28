@@ -131,6 +131,10 @@
                         </path>
                         <!-- This is needed when using Lombok 1.8.16 and above -->
                         <!-- Un gran cambio Siuuuuuuu  x2 jejejejeje-->
+                         <!-- This is needed when using Lombok 1.8.16 and above -->
+                        <!-- Un gran cambio Siuuuuuuu  x2 jejejejeje-->
+                         <!-- This is needed when using Lombok 1.8.16 and above -->
+                        <!-- Un gran cambio Siuuuuuuu  x2 jejejejeje-->
                         <path>
                             <groupId>org.projectlombok</groupId>
                             <artifactId>lombok-mapstruct-binding</artifactId>
